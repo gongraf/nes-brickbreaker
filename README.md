@@ -3,7 +3,8 @@ Small POC created to teach myself 6502 assembly language.
 This is not a completed game.
 
 * 6502 basics learnt from https://skilldrick.github.io/easy6502/
-* Nes Cpu memory map and programming guidances were learnt from nesdev.org* https://www.nesdev.org/wiki/NES_reference_guide
+* Nes Cpu memory map and programming guidances were learnt from nesdev.org
+* https://www.nesdev.org/wiki/NES_reference_guide
 * https://www.nesdev.org/wiki/CPU_memory_map
   
 ## Build 
