@@ -16,6 +16,8 @@ Run:
 This will produce brkout.nes 
 I have tested both in emulator and in real hardware using a flash cart.
 An already assembled  brkout.nes is uploaded so you can just run it on any nes emulator without installing all the environment.
+Note that this is not finished. When the paddle misses the ball the player does not lose a reset and therefore it is never 'game over'.
+Also title's screen is not there either.
 
 Any question contact me: grafgonzalo@gmail.com
 
